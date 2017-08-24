@@ -9,7 +9,7 @@ Exception Level 3 (EL3). It implements various ARM interface standards, such as:
 -  Trusted Board Boot Requirements (TBBR, ARM DEN0006C-1)
 -  `SMC Calling Convention`_
 -  `System Control and Management Interface`_
-
+f
 As far as possible the code is designed for reuse or porting to other ARMv8-A
 model and hardware platforms.
 
